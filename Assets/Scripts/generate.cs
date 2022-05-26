@@ -65,7 +65,12 @@ public class generate : MonoBehaviour
             generateLevel(dimensionsAdv, proportionAdv);
         }
 
-
+        /*// Clear all Cube and Mine GameObjects from the screeen
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            GameObejct.Destroy(Cube, true);
+            GameObejct.Destroy(Mine, true);
+        }*/
     }
 
     // Level Generation, given a difficulty's dimensions and proportion
