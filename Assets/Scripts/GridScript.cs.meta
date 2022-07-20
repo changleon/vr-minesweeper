@@ -4,6 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
+  - SpacePrefab: {fileID: 4123633095872203246, guid: fd01cee23eb740b46af9059d9ac25321, type: 3}
   - Cube: {fileID: 4123633095872203246, guid: fd01cee23eb740b46af9059d9ac25321, type: 3}
   - Mine: {fileID: 4123633095872203246, guid: b94d21cf0ffcc774a9c3b7c9526fd845, type: 3}
   executionOrder: 0
